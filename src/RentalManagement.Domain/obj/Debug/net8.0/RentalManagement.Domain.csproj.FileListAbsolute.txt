@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\bin\Debug\net8.0\RentalManagement.Domain.deps.json
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\bin\Debug\net8.0\RentalManagement.Domain.dll
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\bin\Debug\net8.0\RentalManagement.Domain.pdb
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.dll
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\obj\Debug\net8.0\refint\RentalManagement.Domain.dll
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.pdb
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Domain\obj\Debug\net8.0\ref\RentalManagement.Domain.dll
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\bin\Debug\net8.0\RentalManagement.Domain.deps.json
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\bin\Debug\net8.0\RentalManagement.Domain.dll
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\bin\Debug\net8.0\RentalManagement.Domain.pdb
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.dll
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\obj\Debug\net8.0\refint\RentalManagement.Domain.dll
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\obj\Debug\net8.0\RentalManagement.Domain.pdb
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Domain\obj\Debug\net8.0\ref\RentalManagement.Domain.dll

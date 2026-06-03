@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BKwu/Ty8hcEWVLxQ+7rkj4pIpMk4oJSl9ZjzzPnq4Hk=",
+  "Source": "RentalManagement.API",
+  "BasePath": "_content/RentalManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\bin\Debug\net8.0\RentalManagement.Application.deps.json
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\bin\Debug\net8.0\RentalManagement.Application.dll
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\bin\Debug\net8.0\RentalManagement.Application.pdb
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\bin\Debug\net8.0\RentalManagement.Domain.dll
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\bin\Debug\net8.0\RentalManagement.Domain.pdb
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\obj\Debug\net8.0\RentalMa.11996B5F.Up2Date
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.dll
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\obj\Debug\net8.0\refint\RentalManagement.Application.dll
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.pdb
+C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Application\obj\Debug\net8.0\ref\RentalManagement.Application.dll
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\bin\Debug\net8.0\RentalManagement.Application.deps.json
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\bin\Debug\net8.0\RentalManagement.Application.dll
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\bin\Debug\net8.0\RentalManagement.Application.pdb
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\bin\Debug\net8.0\RentalManagement.Domain.dll
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\bin\Debug\net8.0\RentalManagement.Domain.pdb
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\obj\Debug\net8.0\RentalMa.11996B5F.Up2Date
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.dll
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\obj\Debug\net8.0\refint\RentalManagement.Application.dll
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\obj\Debug\net8.0\RentalManagement.Application.pdb
+C:\Users\user\Desktop\RentalManagement – копія\src\RentalManagement.Application\obj\Debug\net8.0\ref\RentalManagement.Application.dll

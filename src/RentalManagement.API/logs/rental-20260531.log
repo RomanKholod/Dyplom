@@ -1,0 +1,52 @@
+2026-05-31 09:17:12.673 +03:00 [INF] HTTP OPTIONS /api/dashboard/stats responded 204 in 1.8028 ms
+2026-05-31 09:17:12.708 +03:00 [INF] HTTP GET /api/dashboard/stats responded 401 in 1.2014 ms
+2026-05-31 09:17:13.174 +03:00 [INF] HTTP OPTIONS /api/auth/refresh responded 204 in 0.0828 ms
+2026-05-31 09:17:13.257 +03:00 [INF] HTTP POST /api/auth/refresh responded 200 in 77.2823 ms
+2026-05-31 09:17:13.321 +03:00 [INF] HTTP GET /api/dashboard/stats responded 200 in 48.2079 ms
+2026-05-31 09:17:17.930 +03:00 [INF] Running OverdueInvoiceNotificationJob at "2026-05-31T06:17:17.9307546Z"
+2026-05-31 09:17:17.941 +03:00 [ERR] Failed to process the job '2': an exception occurred.
+System.InvalidOperationException: The LINQ expression 'DbSet<Invoice>()
+    .Where(i => !(i.IsDeleted))
+    .Where(i => !(i.IsDeleted) && (int)i.Status != 2 && (int)i.Status != 5 && i.DueDate < __now_0 && i.DebtAmount > 0)' could not be translated. Additional information: Translation of member 'DebtAmount' on entity type 'Invoice' failed. This commonly occurs when the specified member is unmapped. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.
+   at Microsoft.EntityFrameworkCore.Query.QueryableMethodTranslatingExpressionVisitor.Translate(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalQueryableMethodTranslatingExpressionVisitor.Translate(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.QueryCompilationContext.CreateQueryExecutor[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Storage.Database.CompileQuery[TResult](Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore[TResult](IDatabase database, Expression query, IModel model, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass12_0`1.<ExecuteAsync>b__0()
+   at Microsoft.EntityFrameworkCore.Query.Internal.CompiledQueryCache.GetOrAddQuery[TResult](Object cacheKey, Func`1 compiler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExecuteAsync[TResult](Expression query, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.ExecuteAsync[TResult](Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetAsyncEnumerator(CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1.GetAsyncEnumerator()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at RentalManagement.Infrastructure.BackgroundJobs.OverdueInvoiceNotificationJob.ExecuteAsync() in C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Infrastructure\BackgroundJobs\ScheduledJobs.cs:line 36
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-05-31 23:34:56.990 +03:00 [INF] HTTP OPTIONS /api/dashboard/stats responded 204 in 0.0889 ms
+2026-05-31 23:34:57.005 +03:00 [INF] HTTP GET /api/dashboard/stats responded 401 in 0.6192 ms
+2026-05-31 23:34:57.164 +03:00 [INF] HTTP OPTIONS /api/auth/refresh responded 204 in 0.4841 ms
+2026-05-31 23:34:57.410 +03:00 [INF] HTTP POST /api/auth/refresh responded 200 in 227.0530 ms
+2026-05-31 23:34:57.461 +03:00 [INF] Running ExpiringContractNotificationJob at "2026-05-31T20:34:57.4607047Z"
+2026-05-31 23:34:57.465 +03:00 [INF] Running OverdueInvoiceNotificationJob at "2026-05-31T20:34:57.4649414Z"
+2026-05-31 23:34:57.497 +03:00 [WRN] Failed to process the job '4': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:41.
+System.InvalidOperationException: The LINQ expression 'DbSet<Invoice>()
+    .Where(i => !(i.IsDeleted))
+    .Where(i => !(i.IsDeleted) && (int)i.Status != 2 && (int)i.Status != 5 && i.DueDate < __now_0 && i.DebtAmount > 0)' could not be translated. Additional information: Translation of member 'DebtAmount' on entity type 'Invoice' failed. This commonly occurs when the specified member is unmapped. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.
+   at Microsoft.EntityFrameworkCore.Query.QueryableMethodTranslatingExpressionVisitor.Translate(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalQueryableMethodTranslatingExpressionVisitor.Translate(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.QueryCompilationContext.CreateQueryExecutor[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Storage.Database.CompileQuery[TResult](Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore[TResult](IDatabase database, Expression query, IModel model, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass12_0`1.<ExecuteAsync>b__0()
+   at Microsoft.EntityFrameworkCore.Query.Internal.CompiledQueryCache.GetOrAddQuery[TResult](Object cacheKey, Func`1 compiler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExecuteAsync[TResult](Expression query, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.ExecuteAsync[TResult](Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetAsyncEnumerator(CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1.GetAsyncEnumerator()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at RentalManagement.Infrastructure.BackgroundJobs.OverdueInvoiceNotificationJob.ExecuteAsync() in C:\Users\user\Desktop\RentalManagement\src\RentalManagement.Infrastructure\BackgroundJobs\ScheduledJobs.cs:line 36
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-05-31 23:34:57.671 +03:00 [INF] ExpiringContractNotificationJob done. Notified: 0
+2026-05-31 23:34:58.148 +03:00 [INF] HTTP GET /api/dashboard/stats responded 200 in 68.1729 ms
